@@ -1,0 +1,13 @@
+@import url("https://use.typekit.net/ejj4cjv.css");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-primary: 0 0 0;
+    --color-secondary: 111 114 185;
+    /* ... */
+  }
+}
